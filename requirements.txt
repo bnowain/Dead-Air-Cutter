@@ -1,0 +1,7 @@
+# Dead Air Cutter has no Python package dependencies.
+# It uses only the Python standard library.
+#
+# External requirement: ffmpeg must be installed and on your PATH.
+# Download: https://ffmpeg.org/download.html
+#
+# Python 3.8+ required.
